@@ -17,19 +17,18 @@ A production-ready machine learning platform that demonstrates the complete supe
 
 # 📸 Screenshots
 
-> Replace these placeholders with your screenshots.
 
 | Landing Page | Dataset Preview |
 |---------------|-----------------|
-| ![](screenshots/home.png) | ![](screenshots/upload.png) |
+|<img width="1512" height="982" alt="Screenshot 2026-07-25 at 2 22 21 PM" src="https://github.com/user-attachments/assets/4e021949-bb34-4a89-927f-948031bfb085" />| <img width="1512" height="982" alt="Screenshot 2026-07-25 at 2 22 28 PM" src="https://github.com/user-attachments/assets/89ddb514-17b5-4b7e-be2f-cd31911336c0" />|
 
 | Pipeline Execution | Results Dashboard |
 |-------------------|-------------------|
-| ![](screenshots/pipeline.png) | ![](screenshots/dashboard.png) |
+| <img width="1512" height="982" alt="Screenshot 2026-07-25 at 2 22 40 PM" src="https://github.com/user-attachments/assets/d7cb54a0-24c5-4e56-b469-68c973d4e363" /> | <img width="1512" height="982" alt="Screenshot 2026-07-25 at 2 22 49 PM" src="https://github.com/user-attachments/assets/92e7ae92-b33a-4a67-a674-644201519bdc" /> |
 
 | Confusion Matrix |
 |------------------|
-| ![](screenshots/confusion.png) |
+|<img width="1512" height="982" alt="Screenshot 2026-07-25 at 2 22 52 PM" src="https://github.com/user-attachments/assets/3f94bb8f-4683-48c2-8d6e-ae9da9599f6f" /> |
 
 ---
 
