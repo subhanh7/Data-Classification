@@ -1,0 +1,39 @@
+# Python byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Node & Frontend Build Artifacts
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+build/
+
+# Generated ML artifacts
+outputs/*.png
+outputs/*.json
+outputs/*.txt
+models/*.pkl
+data/iris.csv
+
+# Environment & IDE
+.env
+.env.local
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db
